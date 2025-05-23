@@ -15,8 +15,6 @@ Unlike traditional image captioning that focuses on object identification and sc
 
 - **Multi-Model Image Captioning**: Utilizes both BLIP and ViT-GPT2 models for comprehensive scene understanding
 - **Advanced Behavioral Inference**: Leverages Large Language Models (Groq) for psychological and behavioral analysis
-- **Flexible Analysis Depth**: Configurable analysis levels (Basic, Detailed, Academic)
-- **Batch Processing**: Process multiple images efficiently
 - **Google Drive Integration**: Seamless cloud storage integration
 - **Professional Documentation**: Comprehensive error handling and logging
 
